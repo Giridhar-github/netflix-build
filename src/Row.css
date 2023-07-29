@@ -22,3 +22,6 @@
     transform: scale(1.08);
     opacity: 1;
 }
+.row__posterlarge{
+    max-height: 250px;
+}
